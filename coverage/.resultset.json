@@ -1,0 +1,22 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/danielstephenson/Projects/skills-workshops/week-4/Bookmark-Managers/spec/app_spec.rb": [
+        1,
+        null,
+        1,
+        null
+      ],
+      "/Users/danielstephenson/Projects/skills-workshops/week-4/Bookmark-Managers/spec/features/greeting_spec.rb": [
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1537798811
+  }
+}

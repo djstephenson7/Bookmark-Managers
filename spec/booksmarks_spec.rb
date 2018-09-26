@@ -1,4 +1,5 @@
 require './lib/bookmark'
+require './app'
 
 describe Bookmark do
   describe '#.all' do

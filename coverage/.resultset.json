@@ -3,6 +3,7 @@
     "coverage": {
       "/Users/danielstephenson/Projects/skills-workshops/week-4/Bookmark-Managers/spec/booksmarks_spec.rb": [
         1,
+        1,
         null,
         1,
         1,
@@ -30,8 +31,27 @@
         1,
         null,
         null
+      ],
+      "/Users/danielstephenson/Projects/skills-workshops/week-4/Bookmark-Managers/spec/features/viewing_bookmarks_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
       ]
     },
-    "timestamp": 1537969599
+    "timestamp": 1537970194
   }
 }

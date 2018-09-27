@@ -1,0 +1,11 @@
+Bookmark Manager
+
+<ul>
+  <% @bookmarks.each do |bookmark| %>
+  <li><%= bookmark %></li>
+  <% end %>
+</ul>
+
+<form action='/bookmarks/new' method='get'>
+  <input type='submit' method='post' name='add_bookmark' value='Add Bookmark'>
+</form>
